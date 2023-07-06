@@ -1,7 +1,10 @@
 ## PROJECT: Login page with TailwindCSS
 A simple project to get familiar with TailwindCSS.
+
+![login](https://github.com/HWGdesign/LoginPage/assets/132587901/3159780c-bb1f-4de2-a35a-0f74c67b1357)
   
 ### Code with:
+
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
